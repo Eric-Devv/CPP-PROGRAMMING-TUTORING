@@ -17,11 +17,24 @@ int main(){
 //std:: cout<<"iam " <<age<< "yearsnow";
 
 
-int dig1 = 20;
-int dig2 = 30;
-int sum  = dig1 + dig2;
+//int dig1 = 20;
+//int dig2 = 30;
+//int sum  = dig1 + dig2;
 
-std:: cout<< sum;
+//std:: cout<< sum;
+
+int length = 4;
+int width = 6;
+int area;
+
+// Calculate the area of a rectangle
+area = length * width;
+
+// Print the variables
+std:: cout << "Length is: " << length << "\n";
+std:: cout << "Width is: " << width << "\n";
+std:: cout << "Area of the rectangle is: " << area << "\n";
+
 
 return 0;    
 }
