@@ -2,8 +2,9 @@
 
 int main(){
 
-std:: cout<< "hallo fouks";
-std:: cout<< "i am learning c++";
+std:: cout<< "i love calculating\n";
+std:: cout<< 2+2;
+
 
 return 0;    
 }
